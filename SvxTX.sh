@@ -30,7 +30,7 @@
 #       echo in > /sys/class/gpio/gpio20/direction                     #
 #                                                                      #
 #                                                                      #
-# ET NE PAS OUBLIER LE CAVALIER ENTR ENTRE LES GPIO 20 et 20           #
+# ET NE PAS OUBLIER LE CAVALIER ENTR ENTRE LES GPIO 20 et 21           #
 # donc entre les PIN 38 et 40                                          #
 #                                                                      #
 # AND DON T FORGET TO ADD JUMPER BETWWEN GPIO 20 and 21                #
